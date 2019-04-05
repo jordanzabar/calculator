@@ -1,0 +1,16 @@
+{
+  "name": "Calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d Calculator"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://jordanzabar.github.io/calculator",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
